@@ -1,3 +1,7 @@
 logging:
   level:
     ${groupId}: INFO
+management:
+  endpoints:
+    web:
+      base-path:
