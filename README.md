@@ -1,4 +1,4 @@
-# ms-spring-boot-template
+# spring-boot-maven-archetype
 This archetype will create a project with:
 - [Spring Boot 2.4.4](https://spring.io/blog/2021/03/18/spring-boot-2-4-4-available-now)
 - [Java 11](https://openjdk.java.net/projects/jdk/11/)
